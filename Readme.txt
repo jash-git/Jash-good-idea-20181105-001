@@ -12,3 +12,10 @@
 	ffmpeg -ss 00:00:45 -t 00:02:16 -i "頸部原始點.mp4" -vcodec copy -acodec copy  "頸部原始點-output.mp4"
 肩部原始點- https://www.youtube.com/watch?v=vhLfDSlMXT0
 	ffmpeg -ss 00:00:56 -t 00:02:40 -i "肩部原始點.mp4" -vcodec copy -acodec copy  "肩部原始點-output.mp4"
+肘部原始點- https://www.youtube.com/watch?v=6lr5TbG6ud8
+	ffmpeg -ss 00:00:50 -t 00:02:50 -i "肘部原始點.mp4" -vcodec copy -acodec copy  "肘部原始點-output.mp4"
+手背部原始- https://www.youtube.com/watch?v=1LAAJg0WU0U
+	ffmpeg -ss 00:01:01 -t 00:02:06 -i "手背部原始.mp4" -vcodec copy -acodec copy  "手背部原始-output.mp4"
+腳踝_腳背部原始點- https://www.youtube.com/watch?v=kkcPtrSuQLA
+	ffmpeg -ss 00:01:33 -t 00:02:26 -i "腳踝_腳背部原始點.mp4" -vcodec copy -acodec copy  "腳踝_腳背部原始點-output01.mp4"
+	ffmpeg -ss 00:05:27 -t 00:01:14 -i "腳踝_腳背部原始點.mp4" -vcodec copy -acodec copy  "腳踝_腳背部原始點-output02.mp4"
