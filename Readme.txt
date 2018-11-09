@@ -19,3 +19,8 @@
 腳踝_腳背部原始點- https://www.youtube.com/watch?v=kkcPtrSuQLA
 	ffmpeg -ss 00:01:33 -t 00:02:26 -i "腳踝_腳背部原始點.mp4" -vcodec copy -acodec copy  "腳踝_腳背部原始點-output01.mp4"
 	ffmpeg -ss 00:05:27 -t 00:01:14 -i "腳踝_腳背部原始點.mp4" -vcodec copy -acodec copy  "腳踝_腳背部原始點-output02.mp4"
+肩胛骨旁特殊點- https://www.youtube.com/watch?v=wAh0DVIXVWU
+	ffmpeg -ss 00:00:45 -t 00:02:05 -i "肩胛骨旁特殊點.mp4" -vcodec copy -acodec copy  "肩胛骨旁特殊點-output02.mp4"
+膝蓋上方特殊點- https://www.youtube.com/watch?v=pYvCZyYujI0
+	ffmpeg -ss 00:00:35 -t 00:01:48 -i "膝蓋上方特殊點.mp4" -vcodec copy -acodec copy  "膝蓋上方特殊點-output02.mp4"	
+側臥按推方法- https://www.youtube.com/watch?v=EUjV_NZ0bA8
